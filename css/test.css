@@ -1,0 +1,19 @@
+/* this is for testing */
+
+h1 {
+    color: aquamarine;
+    font-size: 12px;    
+}
+
+.css001 {
+    color:blue;
+    font-size: large;
+}
+
+p {
+    color: brown;
+    font-size: x-large;
+    text-align: center;
+    text-transform: uppercase;
+    text-underline-position: auto;
+}
